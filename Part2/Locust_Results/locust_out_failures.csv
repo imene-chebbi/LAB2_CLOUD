@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+GET,/numericalintegralservice/0/3.14159,"TimeoutError(10060, '[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.')",106
+GET,/numericalintegralservice/0/3.14159,"ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)",44
+GET,/numericalintegralservice/0/3.14159,RemoteDisconnected('Remote end closed connection without response'),10
